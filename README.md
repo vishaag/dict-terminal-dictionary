@@ -1,5 +1,7 @@
 # dict-terminal-dictionary
-A super-simple terminal based dictionary built with python and bash.
+
+<img src="https://techmusinghacks.files.wordpress.com/2014/08/screenshot-from-2014-08-23-144050.png?w=758&h=161">
+<br>A super-simple terminal based dictionary built with python and bash.
 
 You will need to make the bash file globally accessible to run it from the terminal.
 
